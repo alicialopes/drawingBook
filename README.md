@@ -27,7 +27,7 @@ function main() {
 
 Unfortunately, 1 of the 27 case tests failed, but my final score was 9.60.
 
-![Screenshot](./img/db2.png)
-![Screenshot](./img/db3.png)
+![Screenshot](./img/db2.jpeg)
+![Screenshot](./img/db3.jpeg)
 
 
